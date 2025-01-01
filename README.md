@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [@freestatelabs](https://github.com/freestatelabs)!
-- 👀 I’m interested in **dynamics**, **controls**, and **reinforcement learning**.
-- 🌱 I’m currently learning how to **make GUIs in Python**, and to **code my own neural networks**.
-- 💞️ I’m looking to collaborate on **reinforcement learning projects**.
+- 👀 I’m interested in **HPC software development**, **dynamics**, **controls**, and **reinforcement learning**.
+- 🌱 I’m currently learning how to **make GUIs in Python**, and to **write my own finite element software**.
+- 💞️ I’m looking to collaborate on **reinforcement learning and FEA projects**.
 - 📫 How to reach me: ryan@freestatelabs.com
 
 <!---
